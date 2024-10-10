@@ -16,7 +16,7 @@ Aqui estão alguns dos modelos de telas incluídos no projeto:
   - Esta tela é para usuários já cadastrados. Eles podem digitar o email e a senha para acessar a conta.
 
 - **Tela 3: Bem-Vindo**
-  ![Tela 3: Bem-Vindo](img/tela3BemVind(falta melhorar).png)
+  ![Tela 3: Bem-Vindo](img/tela3BemVind.png)
   - Esta tela exibe uma mensagem de boas-vindas, mas precisa ser melhorada.
 
 ## Instalação
